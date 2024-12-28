@@ -399,6 +399,15 @@ Add custom emotes with ${AQUA}/va emote${GRAY}.`,
   })
   levelAlert = true;
 
+  @SwitchProperty({
+    name: "Playtime Warnings",
+    description:
+      "Display messages if your playtime for one day exceeds certain amounts.",
+    category: "General",
+    subcategory: "General",
+  })
+  playtimeWarnings = true;
+
   // ████████████████████████████████████████████████████ PARTY ████████████████████████████████████████████████████
 
   // --- Container ---

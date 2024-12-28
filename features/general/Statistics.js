@@ -112,7 +112,7 @@ register("step", () => {
  * Count daily playtime
  */
 register("step", () => {
-  if (!World.isLoaded()) return;
+  if (!World.isLoaded() || !Settings.playtimeWarnings) return;
 
   const today = new Date().getDate();
   if (data.lastDay !== today) {
