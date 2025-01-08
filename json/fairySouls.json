@@ -81,7 +81,7 @@
     ["Catacombs Entrance", "-92", "59", "-138"],
     ["Pet Care", "30.5", "80", "-93.5"]
   ],
-  "Farming Islands": [
+  "Farming_Islands": [
     ["Windmill", "96", "96", "-287"],
     ["The Barn", "182", "99", "-235"],
     ["The Barn", "183", "99", "-305"],
@@ -90,9 +90,9 @@
     ["The Barn", "143", "90", "-243"],
     ["None", "155", "23", "-204"],
     ["Oasis", "111", "63", "-447"],
-    ["Mushroom Desert", "263", "177", "-565"],
+    ["Desert Mountain", "263", "177", "-565"],
     ["Mushroom Desert", "138", "72", "-587"],
-    ["Mushroom Desert", "273", "141", "-467"],
+    ["Desert Mountain", "273", "141", "-467"],
     ["Shepherds Keep", "387", "78", "-365"],
     ["Mushroom Desert", "261", "133", "-348"],
     ["Desert Settlement", "145", "77", "-374"],
@@ -100,10 +100,10 @@
     ["Mushroom Desert", "193", "66", "-468"],
     ["Trappers Den", "279", "112", "-541"],
     ["Overgrown Mushroom Cave", "271", "56", "-361"],
-    ["Mushroom Desert", "152", "67", "-361"],
+    ["Desert Settlement", "152", "67", "-361"],
     ["Oasis", "150", "60", "-448"]
   ],
-  "Gold Mine": [
+  "Gold_Mine": [
     ["Gold Mine", "-11", "76", "-395"],
     ["Gold Mine", "-19", "142", "-364"],
     ["Gold Mine", "-37", "78", "-308"],
@@ -117,7 +117,7 @@
     ["Gold Mine", "-1", "80", "-337"],
     ["Gold Mine", "19", "57", "-341"]
   ],
-  "Deep Caverns": [
+  "Deep_Caverns": [
     ["Gunpowder Mines", "22", "156", "-42"],
     ["Deep Caverns", "3", "152", "85"],
     ["Deep Caverns", "71", "167", "-12"],
@@ -140,7 +140,7 @@
     ["Obsidian Sanctuary", "-71", "13", "5"],
     ["Obsidian Sanctuary", "-76", "13", "24"]
   ],
-  "Dwarven Mines": [
+  "Dwarven_Mines": [
     ["Rampart's Quarry", "-21", "208", "-59"],
     ["Dwarven Mines", "-139", "220", "-89"],
     ["Dwarven Village", "-9", "230", "-135"],
@@ -151,30 +151,34 @@
     ["Goblin Burrows", "-110", "142", "143"],
     ["Goblin Burrows", "-116", "142", "154"],
     ["Goblin Burrows", "-204", "131", "199"],
-    ["Dwarven Mines", "-53", "205", "50"]
+    ["Dwarven Mines", "-53", "205", "50"],
+    ["Fossil Research Center", "20", "121", "240"],
+    ["Great Glacite Lake", "-18", "121", "397"],
+    ["Glacite Tunnels", "111", "160", "412"]
   ],
-  "Spider's Den": [
+  "Glacite_Mineshafts": [["Fairy/Vanguard Glacite Mineshaft", "-136.5", "2", "-172.5"]],
+  "Spider's_Den": [
     ["None", "-422", "106", "-206"],
     ["Spider's Den", "-336", "111", "-253"],
     ["Spider's Den", "-222", "74", "-361"],
-    ["Spider's Den", "-147", "78", "-299"],
-    ["Spider's Den", "-169", "62", "-289"],
-    ["Spider's Den", "-185", "135", "-290"],
+    ["Spider Mound", "-147", "78", "-299"],
+    ["Gravel Mines", "-169", "62", "-289"],
+    ["Spider Mound", "-185", "135", "-290"],
     ["Spider's Den", "-322", "95", "-281"],
-    ["Spider's Den", "-294", "36", "-274"],
-    ["Spider's Den", "-160", "62", "-275"],
+    ["Arachne's Burrow", "-294", "36", "-274"],
+    ["Gravel Mines", "-160", "62", "-275"],
     ["Spider's Den", "-336", "82", "-153"],
     ["Spider's Den", "-297", "90", "-169"],
-    ["Spider's Den", "-279", "127", "-177"],
-    ["Spider's Den", "-309", "63", "-185"],
+    ["Grandma's House", "-279", "127", "-177"],
+    ["Arachne's Sanctuary", "-309", "63", "-185"],
     ["Spider's Den", "-301", "92", "-171"],
     ["Spider's Den", "-140", "85", "-335"],
     ["Spider's Den", "-204", "94", "-241"],
-    ["Spider's Den", "-203", "169", "-320"],
-    ["Spider's Den", "-309", "66", "-245"],
-    ["Spider's Den", "-198", "160", "-331"]
+    ["Spider Mound", "-203", "169", "-320"],
+    ["Arachne's Burrow", "-309", "66", "-245"],
+    ["Spider Mound", "-198", "160", "-331"]
   ],
-  "Crimson Isle": [
+  "Crimson_Isle": [
     ["Aura's Lab", "-383", "71", "-883"],
     ["Dragontail", "-690", "122", "-752"],
     ["Dragontail", "-606", "154", "-800"],
@@ -223,7 +227,7 @@
     ["Birch Park", "-315", "89", "-72"],
     ["Birch Park", "-294", "85", "31"],
     ["Howling Cave", "-390", "61", "-6"],
-    ["Spruce Woods", "-357", "99", "79"],
+    ["Viking Longhouse", "-357", "99", "79"],
     ["None", "-450", "113", "-87"],
     ["Jungle Island", "-471", "132", "-125"],
     ["Jungle Island", "-408", "122", "-92"],
@@ -232,15 +236,15 @@
     ["None", "-386", "108", "-69"],
     ["Dark Thicket", "-370", "112", "-118"]
   ],
-  "Jerry's Workshop": [
+  "Jerry's_Workshop": [
     ["Jerry Pond", "-95", "77", "20"],
     ["Jerry's Workshop", "74", "109", "-18"],
     ["Jerry's Workshop", "-44", "87", "76"],
     ["Jerry's Workshop", "56", "108", "64"],
     ["Jerry's Workshop", "-7", "108", "107"]
   ],
-  "Rift": [["Fairylosopher Tower", "253", "123", "90"]],
-  "Dungeon Hub": [
+  "Rift": [["Fairylosophy Tower", "253", "123", "90"]],
+  "Dungeon_Hub": [
     ["Dungeon Hub", "17", "124", "-58"],
     ["Dungeon Hub", "1", "137", "75"],
     ["Dungeon Hub", "-139", "46", "-1"],
