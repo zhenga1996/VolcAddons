@@ -1,6 +1,7 @@
 {
   "Hub": {
     "Archery Range": ["5", "61", "-134"],
+    "Artist's Abode": ["97", "72", "-103"],
     "Auction House": ["-24", "71", "-90"],
     "Bank": ["-20", "70", "-65"],
     "Bazaar Alley": ["-29", "70", "-75"],
@@ -25,7 +26,9 @@
     "Mountain": ["-33", "91", "8"],
     "Museum": ["-75", "76", "80"],
     "Pet Care": ["24", "70", "-90"],
+    "Rabbit House": ["15", "69", "20"],
     "Ruins": ["-208", "91", "47"],
+    "Shen's Auction": ["-45", "57", "-98"],
     "Tavern": ["-77", "71", "-51"],
     "Thaumaturgist": ["46", "69", "-39"],
     "Village": ["-2", "70", "-69"],
@@ -58,6 +61,14 @@
     "Melody's Plateau": ["-397", "110", "28"],
     "Jungle Island": ["-406", "120", "-39"]
   },
+  "Spider's Den": {
+    "\u23e3Spider Mound": ["-205", "192", "-277"],
+    "\u23e3Gravel Mines": ["-151", "58", "-275"],
+    "\u23e3Grandma's House": ["-263", "156", "-167"],
+    "\u23e3Arachne's Burrow": ["-309", "92", "-209"],
+    "\u23e3Arachne's Sanctuary": ["-318", "86", "-149"],
+    "\u23e3Archaeologist's Camp": ["-337", "110", "-276"]
+  },
   "The End": {
     "Dragon's Nest": ["-600", "22", "-275"],
     "Void Sepulture": ["-576", "7", "-317"],
@@ -75,6 +86,7 @@
     "Matriarch's Lair": ["-523", "40", "-887"],
     "Belly of the Beast": ["-540", "25", "-888"],
     "Dojo": ["-235", "108", "-597"],
+    "Dojo Arena": ["-", "-", "-"],
     "Burning Desert": ["-477", "95", "-659"],
     "Mystic Marsh": ["-248", "75", "-678"],
     "Barbarian Outpost": ["-425", "104", "-679"],
@@ -141,9 +153,26 @@
     "The Forge": ["0", "149", "-70"],
     "The Lift": ["-80", "200", "-120"],
     "The Mist": ["150", "76", "50"],
-    "Upper Mines": ["-130", "174", "-50"]
+    "Upper Mines": ["-130", "174", "-50"],
+    "Dwarven Base Camp": ["0", "128", "200"],
+    "Fossil Research Center": ["19", "120", "231"],
+    "Glacite Tunnels": ["14", "120", "256"],
+    "Great Glacite Lake": ["1", "132", "390"],
+    "Glacite Mineshafts": ["-", "-", "-"]
   },
-  "The Rift": {
+  "Jerry's Workshop": {
+    "Jerry Pond": ["-61", "76", "36"],
+    "Reflective Pond": ["-64", "81", "-13"],
+    "Sunken Jerry Pond": ["-95", "64", "51"],
+    "Mount Jerry": ["-7", "120", "-78"],
+    "Gary's Shack": ["53", "103", "56"],
+    "Glacial Cave": ["87", "75", "65"],
+    "Terry's Shack": ["-92", "78", "25"],
+    "Hot Springs": ["16", "62", "-30"],
+    "Sherry's Showroom": ["15", "76", "94"],
+    "Einary's Emporium": ["-14.5", "76", "63.5"]
+  },
+  "Rift Dimension": {
     "Wizard Tower": ["-47.5", "122", "72.5"],
     "Black Lagoon": ["-150", "67", "59"],
     "Rift Gallery Entrance": ["87", "70", "72"],
@@ -153,6 +182,10 @@
     "Living Stillness": ["15", "71", "-158"],
     "Colosseum": ["-104.5", "68", "-51.5"],
     "Barrier Street": ["31", "72", "-90"],
-    "Stillgore Ch\u00e2teau": ["197", "76", "42"]
+    "Stillgore Ch\u00e2teau": ["197", "76", "42"],
+    "Mountaintop": ["39", "86", "2"],
+    "Walk of Fame": ["-5.5", "180", "24.5"],
+    "Cerebral Citadel": ["-245,", "21", "-62"],
+    "Wizardman Bureau": ["-222", "17", "-78"]
   }
 }
